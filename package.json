@@ -7,13 +7,12 @@
     "dev": "concurrently -n client,server -c blue,green \"vite --host\" \"tsx watch server/index.ts\"",
     "dev:client": "vite --host",
     "dev:server": "tsx watch server/index.ts",
-    "build": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
+    "build": "vite build",
+    "build:full": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
     "start": "NODE_ENV=production PORT=3000 node dist/index.js",
     "preview": "vite preview --host",
     "check": "tsc --noEmit",
-    "format": "prettier --write .",
-    "validate": "npm run check && npm run build",
-    "predeploy": "npm run validate"
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

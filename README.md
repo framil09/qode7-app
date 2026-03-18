@@ -75,40 +75,37 @@ npm run preview
 
 ## 🌐 Deploy
 
-### AWS Amplify (Recomendado)
+### AWS Amplify ⭐ (Recomendado)
 
-Para fazer deploy na AWS Amplify, siga o guia completo em [AWS_AMPLIFY_DEPLOY.md](./AWS_AMPLIFY_DEPLOY.md).
+**Guia rápido**: [AMPLIFY_QUICK_START.md](./AMPLIFY_QUICK_START.md)  
+**Guia completo**: [AWS_AMPLIFY_DEPLOY.md](./AWS_AMPLIFY_DEPLOY.md)
 
-**Passos rápidos:**
-1. Push do código para repositório Git (GitHub, GitLab, Bitbucket)
-2. Conecte o repositório no [AWS Amplify Console](https://console.aws.amazon.com/amplify/)
-3. Configure as variáveis de ambiente
-4. O Amplify usará automaticamente o arquivo `amplify.yml` para build
+```bash
+# 1. Build local para testar
+npm run build
 
-**Arquivo de configuração**: `amplify.yml` (já incluído)
+# 2. Push para GitHub
+git push origin main
 
-### Netlify
+# 3. Conectar no Amplify Console
+# https://console.aws.amazon.com/amplify/
 
-Para deploy no Netlify, veja [NETLIFY_DEPLOY.md](./NETLIFY_DEPLOY.md).
+# 4. Deploy automático ativado!
+```
 
-**Arquivo de configuração**: `netlify.toml` (já incluído)
+**Arquivo de configuração**: `amplify.yml` ✅
 
 ### Variáveis de Ambiente
 
-Copie e configure o arquivo `.env.example`:
-
 ```bash
-cp .env.example .env
+# Mínimo
+NODE_ENV=production
+
+# Opcional (frontend)
+VITE_API_URL=https://sua-api.com
 ```
 
-Variáveis necessárias:
-- `EMAIL_HOST`, `EMAIL_PORT`, `EMAIL_USER`, `EMAIL_PASSWORD` - Para envio de emails
-- `COMPANY_EMAIL` - Email que receberá notificações
-- `NODE_ENV` - Ambiente (development/production)
-- `PORT` - Porta do servidor
-
-Para Google Calendar (opcional):
-- `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `GOOGLE_REFRESH_TOKEN`
+Ver `.env.example` para todas as opções.
 
 ---
 
