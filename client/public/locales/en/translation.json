@@ -1,0 +1,261 @@
+{
+  "header": {
+    "logo": "qodeseven",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "tag": "🚀 Digital Transformation",
+    "title": "Your idea into a",
+    "highlight": "powerful digital solution",
+    "description": "We develop websites and applications that grow with your business. Modern technology, innovative design and dedicated support.",
+    "cta": "Get Started",
+    "secondary": "Learn More"
+  },
+  "services": {
+    "tag": "Our Services",
+    "title": "What we offer",
+    "description": "Complete solutions to turn your idea into digital reality",
+    "web": {
+      "title": "Web Development",
+      "description": "Modern, fast and responsive websites that convert visitors into customers"
+    },
+    "app": {
+      "title": "Mobile Applications",
+      "description": "Native iOS and Android apps with best performance and user experience"
+    },
+    "ecommerce": {
+      "title": "E-commerce",
+      "description": "Optimized online stores to sell more and increase your revenue"
+    },
+    "design": {
+      "title": "UI/UX Design",
+      "description": "Intuitive and attractive interfaces that your users will love"
+    },
+    "seo": {
+      "title": "SEO & Marketing",
+      "description": "Strategies to appear on Google and attract more customers"
+    },
+    "consulting": {
+      "title": "Tech Consulting",
+      "description": "Strategic guidance for your digital transformation"
+    }
+  },
+  "portfolio": {
+    "tag": "Our Work",
+    "title": "Projects that transformed businesses",
+    "description": "See some of the projects we've successfully developed",
+    "viewLive": "View Project",
+    "viewCode": "View Code",
+    "project1": {
+      "title": "Fashion E-commerce",
+      "description": "Online store with 5k+ products, payment and logistics integrations"
+    },
+    "project2": {
+      "title": "SaaS Platform",
+      "description": "Cloud management system with 1k+ monthly active users"
+    },
+    "project3": {
+      "title": "Delivery App",
+      "description": "Mobile application with integrated maps, 2k+ deliveries per month"
+    }
+  },
+  "about": {
+    "tag": "About Us",
+    "title": "Who we are",
+    "description": "We are a team passionate about technology and innovation",
+    "mission": "Our mission is to transform ideas into extraordinary digital solutions that grow with your business",
+    "vision": "To be a reference in digital development in Latin America",
+    "values": "Quality, innovation and dedication in every project",
+    "team": "Team of specialists"
+  },
+  "cta": {
+    "tag": "Ready to get started?",
+    "title": "Transform your idea into digital reality",
+    "description": "Tell us about your project and we'll create an extraordinary solution together",
+    "benefit1": "✓ Response in 2 hours",
+    "benefit2": "✓ First free consultation",
+    "benefit3": "✓ No commitment",
+    "schedule": "Schedule meeting",
+    "contact": "Get in touch"
+  },
+  "footer": {
+    "company": "Qodeseven",
+    "companyDescription": "Transforming ideas into extraordinary digital solutions",
+    "services": "Services",
+    "company_section": "Company",
+    "webDevelopment": "Web Development",
+    "mobileDevelopment": "Mobile Apps",
+    "ecommerce": "E-commerce",
+    "uiux": "UI/UX Design",
+    "seo": "SEO & Marketing",
+    "consulting": "Tech Consulting",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog",
+    "careers": "Careers",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms of use",
+    "copyright": "© 2026 Qodeseven. All rights reserved."
+  },
+  "contact": {
+    "tag": "Let's Talk!",
+    "title": "Ready to",
+    "highlight": "Transform Your Idea?",
+    "description": "Choose the best way to contact us. Our team is ready to transform your project into digital reality.",
+    "hours": "Business Hours",
+    "hoursDescription": "We are available during business hours to serve you quickly.",
+    "weekdays": "Monday to Friday",
+    "weekdaysTime": "9am - 6pm (Brasília Time)",
+    "weekend": "Saturday, Sunday and Holidays",
+    "weekendMessage": "Response on the next Monday",
+    "responseTime": "Average response time",
+    "responseEmail": "Via email",
+    "responseInstant": "⚡ Immediate",
+    "phone": "Phone",
+    "phoneDescription": "Direct call",
+    "whatsapp": "WhatsApp",
+    "whatsappDescription": "Instant chat",
+    "email": "Email",
+    "emailDescription": "Professional message",
+    "phoneTime": "Mon-Fri 9am-6pm",
+    "whatsappTime": "Immediate response",
+    "emailTime": "Response within 2 hours",
+    "benefits": "Why choose",
+    "whyChoose": "qodeseven?",
+    "whyDescription": "We offer more than a service, we offer a partnership dedicated to your success",
+    "benefit1": "Response in 2 Hours",
+    "benefit1Desc": "We respond quickly to understand your project",
+    "benefit2": "Scalable Projects",
+    "benefit2Desc": "Solutions that grow with your business",
+    "benefit3": "Secure Code",
+    "benefit3Desc": "Development with high quality standards",
+    "benefit4": "Dedicated Team",
+    "benefit4Desc": "Continuous support during and after the project",
+    "benefit5": "Guaranteed Results",
+    "benefit5Desc": "Delivery on time with premium quality",
+    "benefit6": "100% Customized",
+    "benefit6Desc": "Every project is unique and tailored",
+    "readMore": "Learn more",
+    "ctaTitle": "Ready to get started?",
+    "ctaDescription": "Choose your preferred contact method and let's transform your idea into an extraordinary digital solution.",
+    "whatsappBtn": "Chat on WhatsApp",
+    "callBtn": "Call Now",
+    "emailBtn": "Send Email"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "portfolio_section": {
+    "title": "Portfolio",
+    "description": "See some of the projects we've developed for our clients. Each one represents our dedication to quality and innovation.",
+    "viewMoreProjects": "View More Projects",
+    "categoryWeb": "Web System",
+    "categoryMobile": "Mobile App",
+    "categoryWebsite": "Website",
+    "project1": {
+      "title": "E-commerce Platform",
+      "description": "Complete e-commerce platform with integrated payments"
+    },
+    "project2": {
+      "title": "Delivery App",
+      "description": "Delivery app with real-time tracking"
+    },
+    "project3": {
+      "title": "Dashboard Analytics",
+      "description": "Data analysis dashboard with advanced visualizations"
+    },
+    "project4": {
+      "title": "SaaS Management",
+      "description": "Enterprise management SaaS platform"
+    },
+    "project5": {
+      "title": "Mobile Banking",
+      "description": "Secure banking app with biometric authentication"
+    },
+    "project6": {
+      "title": "Corporate Website",
+      "description": "Responsive corporate website optimized for SEO"
+    },
+    "project7": {
+      "title": "Project Management System",
+      "description": "Project management platform with real-time collaboration"
+    },
+    "project8": {
+      "title": "Fitness & Wellness App",
+      "description": "Workout and wellness app with personalized plans"
+    },
+    "project9": {
+      "title": "E-Learning Platform",
+      "description": "Online education platform with integrated videoconference"
+    }
+  },
+  "about_section": {
+    "whyChoose": "Why choose us?",
+    "highlights": {
+      "experience": {
+        "title": "Proven Experience",
+        "description": "8+ years in the market with successful projects"
+      },
+      "speed": {
+        "title": "Fast Delivery",
+        "description": "Agile methodology for agile development"
+      },
+      "tech": {
+        "title": "Modern Technology",
+        "description": "Updated and scalable tech stack"
+      },
+      "quality": {
+        "title": "Guaranteed Quality",
+        "description": "Rigorous testing on every delivery"
+      },
+      "communication": {
+        "title": "Clear Communication",
+        "description": "Total transparency with the client"
+      },
+      "support": {
+        "title": "Continuous Support",
+        "description": "Complete post-delivery follow-up"
+      },
+      "innovation": {
+        "title": "Constant Innovation",
+        "description": "We always seek the best solutions"
+      },
+      "growth": {
+        "title": "Growing Together",
+        "description": "Your success is our success"
+      }
+    }
+  },
+  "schedule_dialog": {
+    "title": "Schedule a Meeting",
+    "subtitle": "Let's discuss your project",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "projectInfo": "Project Information",
+    "projectPlaceholder": "Tell us about your project...",
+    "selectDate": "Select a date",
+    "selectTime": "Select a time",
+    "submit": "Schedule Meeting",
+    "submitting": "Wait...",
+    "success": "Meeting scheduled successfully!",
+    "error": "Error scheduling. Try again.",
+    "close": "Close"
+  },
+  "cookies": {
+    "banner_title": "Cookie Preferences",
+    "banner_description": "We use cookies to improve your experience on our website. Some are essential for functionality, while others help us improve the service.",
+    "banner_learn_more": "Learn more",
+    "banner_accept": "Accept All",
+    "banner_reject": "Reject"
+  }
+}
