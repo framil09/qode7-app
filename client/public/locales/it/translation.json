@@ -1,0 +1,261 @@
+{
+  "header": {
+    "logo": "qodeseven",
+    "services": "Servizi",
+    "portfolio": "Portfolio",
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "language": "Lingua"
+  },
+  "hero": {
+    "tag": "🚀 Trasformazione Digitale",
+    "title": "La tua idea in una",
+    "highlight": "potente soluzione digitale",
+    "description": "Sviluppiamo siti web e applicazioni che crescono con il tuo business. Tecnologia moderna, design innovativo e supporto dedicato.",
+    "cta": "Inizia Ora",
+    "secondary": "Scopri di Più"
+  },
+  "services": {
+    "tag": "I Nostri Servizi",
+    "title": "Cosa offriamo",
+    "description": "Soluzioni complete per trasformare la tua idea in realtà digitale",
+    "web": {
+      "title": "Sviluppo Web",
+      "description": "Siti web moderni, veloci e responsivi che convertono visitatori in clienti"
+    },
+    "app": {
+      "title": "Applicazioni Mobile",
+      "description": "App iOS e Android native con migliore performance e user experience"
+    },
+    "ecommerce": {
+      "title": "E-commerce",
+      "description": "Negozi online ottimizzati per vendere di più e aumentare i tuoi ricavi"
+    },
+    "design": {
+      "title": "UI/UX Design",
+      "description": "Interfacce intuitive e attraenti che i tuoi utenti ameranno"
+    },
+    "seo": {
+      "title": "SEO & Marketing",
+      "description": "Strategie per apparire su Google e attirare più clienti"
+    },
+    "consulting": {
+      "title": "Consulenza Tecnologica",
+      "description": "Orientamento strategico per la tua trasformazione digitale"
+    }
+  },
+  "portfolio": {
+    "tag": "Il Nostro Lavoro",
+    "title": "Progetti che hanno trasformato i business",
+    "description": "Vedi alcuni dei progetti che abbiamo sviluppato con successo",
+    "viewLive": "Visualizza Progetto",
+    "viewCode": "Visualizza Codice",
+    "project1": {
+      "title": "E-commerce di Moda",
+      "description": "Negozio online con 5k+ prodotti, integrazioni di pagamento e logistica"
+    },
+    "project2": {
+      "title": "Piattaforma SaaS",
+      "description": "Sistema di gestione cloud con 1k+ utenti attivi mensili"
+    },
+    "project3": {
+      "title": "App di Consegna",
+      "description": "Applicazione mobile con mappe integrate, 2k+ consegne al mese"
+    }
+  },
+  "about": {
+    "tag": "Chi Siamo",
+    "title": "La nostra storia",
+    "description": "Siamo un team appassionato di tecnologia e innovazione",
+    "mission": "La nostra missione è trasformare idee in soluzioni digitali straordinarie che crescono con il tuo business",
+    "vision": "Essere un riferimento nello sviluppo digitale in America Latina",
+    "values": "Qualità, innovazione e dedizione in ogni progetto",
+    "team": "Team di specialisti"
+  },
+  "cta": {
+    "tag": "Pronto per iniziare?",
+    "title": "Trasforma la tua idea in realtà digitale",
+    "description": "Raccontaci del tuo progetto e creeremo una soluzione straordinaria insieme",
+    "benefit1": "✓ Risposta in 2 ore",
+    "benefit2": "✓ Prima consulenza gratuita",
+    "benefit3": "✓ Senza impegno",
+    "schedule": "Programma riunione",
+    "contact": "Contattaci"
+  },
+  "footer": {
+    "company": "Qodeseven",
+    "companyDescription": "Trasformiamo idee in soluzioni digitali straordinarie",
+    "services": "Servizi",
+    "company_section": "Azienda",
+    "webDevelopment": "Sviluppo Web",
+    "mobileDevelopment": "App Mobile",
+    "ecommerce": "E-commerce",
+    "uiux": "UI/UX Design",
+    "seo": "SEO & Marketing",
+    "consulting": "Consulenza Tech",
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "blog": "Blog",
+    "careers": "Carriere",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Termini di utilizzo",
+    "copyright": "© 2026 Qodeseven. Tutti i diritti riservati."
+  },
+  "contact": {
+    "tag": "Parliamo!",
+    "title": "Pronto a",
+    "highlight": "Trasformare la Tua Idea?",
+    "description": "Scegli il miglior modo per contattarci. Il nostro team è pronto per trasformare il tuo progetto in realtà digitale.",
+    "hours": "Orario di Lavoro",
+    "hoursDescription": "Siamo disponibili durante l'orario lavorativo per servirti rapidamente.",
+    "weekdays": "Lunedì a Venerdì",
+    "weekdaysTime": "9h - 18h (Ora di Brasília)",
+    "weekend": "Sabato, Domenica e Festivi",
+    "weekendMessage": "Risposta il prossimo lunedì",
+    "responseTime": "Tempo medio di risposta",
+    "responseEmail": "Via email",
+    "responseInstant": "⚡ Immediato",
+    "phone": "Telefono",
+    "phoneDescription": "Chiamata diretta",
+    "whatsapp": "WhatsApp",
+    "whatsappDescription": "Chat istantanea",
+    "email": "Email",
+    "emailDescription": "Messaggio professionale",
+    "phoneTime": "Lun-Ven 9h-18h",
+    "whatsappTime": "Risposta immediata",
+    "emailTime": "Risposta entro 2 ore",
+    "benefits": "Perché scegliere",
+    "whyChoose": "qodeseven?",
+    "whyDescription": "Offriamo più di un servizio, offriamo una partnership dedicata al tuo successo",
+    "benefit1": "Risposta in 2 Ore",
+    "benefit1Desc": "Rispondiamo rapidamente per capire il tuo progetto",
+    "benefit2": "Progetti Scalabili",
+    "benefit2Desc": "Soluzioni che crescono con il tuo business",
+    "benefit3": "Codice Sicuro",
+    "benefit3Desc": "Sviluppo con alti standard di qualità",
+    "benefit4": "Team Dedicato",
+    "benefit4Desc": "Supporto continuo durante e dopo il progetto",
+    "benefit5": "Risultati Garantiti",
+    "benefit5Desc": "Consegna in tempo con qualità premium",
+    "benefit6": "100% Personalizzato",
+    "benefit6Desc": "Ogni progetto è unico e su misura",
+    "readMore": "Scopri di più",
+    "ctaTitle": "Pronto per iniziare?",
+    "ctaDescription": "Scegli il tuo metodo di contatto preferito e trasformiamo la tua idea in una soluzione digitale straordinaria.",
+    "whatsappBtn": "Scrivi su WhatsApp",
+    "callBtn": "Chiama Ora",
+    "emailBtn": "Invia Email"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Servizi",
+    "portfolio": "Portfolio",
+    "about": "Chi siamo",
+    "contact": "Contatti"
+  },
+  "portfolio_section": {
+    "title": "Portfolio",
+    "description": "Scopri alcuni dei progetti che abbiamo sviluppato per i nostri clienti. Ognuno rappresenta il nostro impegno per la qualità e l'innovazione.",
+    "viewMoreProjects": "Visualizza più progetti",
+    "categoryWeb": "Sistema Web",
+    "categoryMobile": "App Mobile",
+    "categoryWebsite": "Sito Web",
+    "project1": {
+      "title": "Piattaforma E-commerce",
+      "description": "Piattaforma e-commerce completa con pagamenti integrati"
+    },
+    "project2": {
+      "title": "App di Consegna",
+      "description": "App di consegna con tracciamento in tempo reale"
+    },
+    "project3": {
+      "title": "Dashboard Analytics",
+      "description": "Dashboard di analisi dati con visualizzazioni avanzate"
+    },
+    "project4": {
+      "title": "Gestione SaaS",
+      "description": "Piattaforma SaaS di gestione aziendale"
+    },
+    "project5": {
+      "title": "Banking Mobile",
+      "description": "App bancaria sicura con autenticazione biometrica"
+    },
+    "project6": {
+      "title": "Sito Aziendale",
+      "description": "Sito aziendale reattivo e ottimizzato per SEO"
+    },
+    "project7": {
+      "title": "Sistema di Gestione Progetti",
+      "description": "Piattaforma di gestione progetti con collaborazione in tempo reale"
+    },
+    "project8": {
+      "title": "App Fitness e Benessere",
+      "description": "App di allenamento e benessere con piani personalizzati"
+    },
+    "project9": {
+      "title": "Piattaforma E-Learning",
+      "description": "Piattaforma di educazione online con videoconferenza integrata"
+    }
+  },
+  "about_section": {
+    "whyChoose": "Perché sceglierci?",
+    "highlights": {
+      "experience": {
+        "title": "Esperienza Provata",
+        "description": "8+ anni di mercato con progetti di successo"
+      },
+      "speed": {
+        "title": "Consegna Veloce",
+        "description": "Metodologia agile per sviluppo agile"
+      },
+      "tech": {
+        "title": "Tecnologia Moderna",
+        "description": "Stack tecnologico aggiornato e scalabile"
+      },
+      "quality": {
+        "title": "Qualità Garantita",
+        "description": "Test rigorosi su ogni consegna"
+      },
+      "communication": {
+        "title": "Comunicazione Chiara",
+        "description": "Trasparenza totale con il cliente"
+      },
+      "support": {
+        "title": "Supporto Continuo",
+        "description": "Monitoraggio completo post-consegna"
+      },
+      "innovation": {
+        "title": "Innovazione Costante",
+        "description": "Cerchiamo sempre le migliori soluzioni"
+      },
+      "growth": {
+        "title": "Crescita Insieme",
+        "description": "Il tuo successo è il nostro successo"
+      }
+    }
+  },
+  "schedule_dialog": {
+    "title": "Prenota una Riunione",
+    "subtitle": "Discutiamo il tuo progetto",
+    "name": "Nome",
+    "email": "Email",
+    "phone": "Telefono",
+    "projectInfo": "Informazioni Progetto",
+    "projectPlaceholder": "Raccontaci del tuo progetto...",
+    "selectDate": "Seleziona una data",
+    "selectTime": "Seleziona un orario",
+    "submit": "Prenota Riunione",
+    "submitting": "Attendi...",
+    "success": "Riunione prenotata con successo!",
+    "error": "Errore nella prenotazione. Riprova.",
+    "close": "Chiudi"
+  },
+  "cookies": {
+    "banner_title": "Preferenze dei Cookie",
+    "banner_description": "Utilizziamo i cookie per migliorare la tua esperienza sul nostro sito web. Alcuni sono essenziali per il funzionamento, mentre altri ci aiutano a migliorare il servizio.",
+    "banner_learn_more": "Scopri di più",
+    "banner_accept": "Accetta Tutto",
+    "banner_reject": "Rifiuta"
+  }
+}
