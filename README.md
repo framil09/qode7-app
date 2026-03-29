@@ -32,14 +32,14 @@ Aplicação web full-stack com design dark/teal profissional:
 ### Pré-requisitos
 
 - **Node.js** 18+
-- **pnpm** 10+ (ou npm 9+)
+- **npm** 9+ (ou pnpm 10+)
 
 ### Instalação
 
 ```bash
 git clone https://github.com/framil09/qode7-app.git
 cd qode7-app
-pnpm install
+npm install
 ```
 
 ### Configuração de Email
@@ -66,13 +66,13 @@ Para Gmail, crie uma **Senha de App** em: [myaccount.google.com/apppasswords](ht
 
 ```bash
 # Iniciar frontend (Vite)
-pnpm dev:client
+npm run dev:client
 
 # Iniciar backend (Express)
-pnpm dev:server
+npm run dev:server
 
 # Ou ambos simultaneamente
-pnpm dev
+npm run dev
 ```
 
 O frontend estará em `http://localhost:3001` e o backend em `http://localhost:5001`.
@@ -80,8 +80,8 @@ O frontend estará em `http://localhost:3001` e o backend em `http://localhost:5
 ### Build para Produção
 
 ```bash
-pnpm build
-pnpm start
+npm run build
+npm start
 ```
 
 ---
