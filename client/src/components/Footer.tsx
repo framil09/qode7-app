@@ -1,3 +1,5 @@
+import { Linkedin, Instagram, Facebook, MessageCircle } from "lucide-react";
+
 export default function Footer() {
   return (
     <footer
@@ -60,7 +62,7 @@ export default function Footer() {
                   e.currentTarget.style.color = "rgba(160,174,192,0.5)";
                 }}
               >
-                in
+                <Linkedin size={16} />
               </a>
               <a
                 href="https://www.instagram.com/qodeseven"
@@ -84,7 +86,55 @@ export default function Footer() {
                   e.currentTarget.style.color = "rgba(160,174,192,0.5)";
                 }}
               >
-                ig
+                <Instagram size={16} />
+              </a>
+              <a
+                href="https://www.facebook.com/qodeseven"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center rounded-lg transition-all no-underline"
+                style={{
+                  width: "36px",
+                  height: "36px",
+                  background: "rgba(255,255,255,0.04)",
+                  border: "1px solid rgba(255,255,255,0.06)",
+                  color: "rgba(160,174,192,0.5)",
+                  fontSize: "14px",
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.borderColor = "rgba(29,201,164,0.3)";
+                  e.currentTarget.style.color = "#1dc9a4";
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.borderColor = "rgba(255,255,255,0.06)";
+                  e.currentTarget.style.color = "rgba(160,174,192,0.5)";
+                }}
+              >
+                <Facebook size={16} />
+              </a>
+              <a
+                href="https://wa.me/5511916155584"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center rounded-lg transition-all no-underline"
+                style={{
+                  width: "36px",
+                  height: "36px",
+                  background: "rgba(255,255,255,0.04)",
+                  border: "1px solid rgba(255,255,255,0.06)",
+                  color: "rgba(160,174,192,0.5)",
+                  fontSize: "14px",
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.borderColor = "rgba(29,201,164,0.3)";
+                  e.currentTarget.style.color = "#1dc9a4";
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.borderColor = "rgba(255,255,255,0.06)";
+                  e.currentTarget.style.color = "rgba(160,174,192,0.5)";
+                }}
+              >
+                <MessageCircle size={16} />
               </a>
             </div>
           </div>

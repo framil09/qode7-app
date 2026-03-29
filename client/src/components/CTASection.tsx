@@ -41,7 +41,7 @@ export default function CTASection() {
             className="w-1.5 h-1.5 rounded-full"
             style={{ background: "#1dc9a4" }}
           />
-          Vamos conversar?
+          Sua próxima evolução começa aqui
         </div>
 
         {/* Title */}
@@ -55,7 +55,7 @@ export default function CTASection() {
             marginBottom: "16px",
           }}
         >
-          Pronto para transformar
+          Vamos resolver o seu
           <br />
           <span
             style={{
@@ -64,7 +64,7 @@ export default function CTASection() {
               WebkitTextFillColor: "transparent",
             }}
           >
-            seu negócio?
+            problema juntos.
           </span>
         </h2>
 
@@ -77,8 +77,8 @@ export default function CTASection() {
             marginBottom: "40px",
           }}
         >
-          Agende uma conversa sem compromisso. Vamos entender o seu desafio e
-          mostrar como a tecnologia pode resolver — de verdade.
+          Conte o seu desafio — nós ouvimos, entendemos e criamos a solução
+          certa com tecnologia que funciona no mundo real.
         </p>
 
         {/* Actions */}
