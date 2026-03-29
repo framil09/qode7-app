@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "qode7",
+  "name": "qode7-app",
   "compatibility_date": "2025-09-27",
   "observability": {
     "enabled": true
