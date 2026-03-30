@@ -263,9 +263,8 @@ export default function ScheduleMeetingDialog() {
               <CalendarComponent
                 mode="single"
                 selected={selectedDate}
-                onSelect={setSelectedDate}
+                onSelect={(day) => setSelectedDate(day ?? undefined)}
                 disabled={isDisabledDate}
-                autoFocus
               />
             </div>
           </div>
