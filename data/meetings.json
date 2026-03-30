@@ -42,5 +42,16 @@
     "date": "2026-03-15",
     "time": "14:00",
     "status": "confirmado"
+  },
+  {
+    "id": 1774871988076,
+    "createdAt": "2026-03-30T11:59:48.076Z",
+    "name": "Teste QodeSeven",
+    "email": "comercial@qode7.com",
+    "phone": "(35) 99210-1025",
+    "message": "Teste de agendamento pelo sistema - verificação de envio de email.",
+    "date": "2026-04-02",
+    "time": "10:00",
+    "status": "confirmado"
   }
 ]
